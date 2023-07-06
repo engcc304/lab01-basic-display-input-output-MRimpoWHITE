@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="1386" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1154" dy="219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -619,7 +619,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="413" value="ทอน&amp;gt;=100" style="rhombus;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
-                    <mxGeometry x="68.18" y="959" width="30" height="21.5" as="geometry"/>
+                    <mxGeometry x="68.18" y="950" width="31.82" height="30.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="436" style="edgeStyle=none;html=1;fontSize=5;entryX=0.02;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="513" target="435">
                     <mxGeometry relative="1" as="geometry">
